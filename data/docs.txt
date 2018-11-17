@@ -1,0 +1,1 @@
+This directory houses the 10-day forecasts for each stock; run daily.
